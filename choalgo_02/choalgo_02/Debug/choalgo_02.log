@@ -1,0 +1,4 @@
+﻿  connect.cpp
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_02\choalgo_02\connect.cpp(25): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  choalgo_02.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\choalgo_02\Debug\choalgo_02.exe
+  choalgo_02.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\choalgo_02\Debug\choalgo_02.pdb (Partial PDB)

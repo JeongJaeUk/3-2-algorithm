@@ -1,0 +1,5 @@
+﻿  square.cpp
+c:\users\skstk\documents\visual studio 2017\projects\choalgo\choalgo\square.cpp(27): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skstk\documents\visual studio 2017\projects\choalgo\choalgo\square.cpp(12): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  choalgo.vcxproj -> c:\users\skstk\documents\visual studio 2017\Projects\choalgo\Debug\choalgo.exe
+  choalgo.vcxproj -> c:\users\skstk\documents\visual studio 2017\Projects\choalgo\Debug\choalgo.pdb (Partial PDB)
