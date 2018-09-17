@@ -1,0 +1,6 @@
+﻿  gene.cpp
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_05\choalgo_05\gene.cpp(39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_05\choalgo_05\gene.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_05\choalgo_05\gene.cpp(98): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  choalgo_05.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\choalgo_05\Debug\choalgo_05.exe
+  choalgo_05.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\choalgo_05\Debug\choalgo_05.pdb (Partial PDB)
