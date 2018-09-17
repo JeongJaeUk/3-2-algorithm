@@ -1,0 +1,5 @@
+﻿  food.cpp
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_10\choalgo_10\food.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\choalgo_10\choalgo_10\food.cpp(75): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  choalgo_10.vcxproj -> C:\Users\skstk\documents\visual studio 2017\Projects\choalgo_10\Debug\choalgo_10.exe
+  choalgo_10.vcxproj -> C:\Users\skstk\documents\visual studio 2017\Projects\choalgo_10\Debug\choalgo_10.pdb (Partial PDB)
